@@ -1,0 +1,166 @@
+
+laserPack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 1, 382
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+laser2
+  rotate: false
+  xy: 1, 1
+  size: 63, 379
+  orig: 63, 379
+  offset: 0, 0
+  index: -1
+crabd-0
+  rotate: false
+  xy: 603, 782
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+crabd-1
+  rotate: false
+  xy: 66, 180
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+crabd-10
+  rotate: false
+  xy: 603, 580
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+crabd-11
+  rotate: false
+  xy: 805, 782
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+crabd-12
+  rotate: false
+  xy: 268, 180
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+crabd-13
+  rotate: false
+  xy: 805, 580
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+crabd-14
+  rotate: false
+  xy: 1007, 782
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+crabd-2
+  rotate: false
+  xy: 1007, 580
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+crabd-3
+  rotate: false
+  xy: 1209, 782
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+crabd-4
+  rotate: false
+  xy: 1209, 580
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+crabd-5
+  rotate: false
+  xy: 1411, 782
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+crabd-6
+  rotate: false
+  xy: 1411, 580
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+crabd-7
+  rotate: false
+  xy: 1613, 782
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+crabd-8
+  rotate: false
+  xy: 1613, 580
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+crabd-9
+  rotate: false
+  xy: 1815, 782
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+magnet
+  rotate: false
+  xy: 1815, 580
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+shield
+  rotate: false
+  xy: 603, 378
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ship2
+  rotate: false
+  xy: 805, 378
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ship3
+  rotate: false
+  xy: 1007, 378
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+laser
+  rotate: false
+  xy: 66, 25
+  size: 66, 153
+  orig: 66, 153
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 470, 314
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1

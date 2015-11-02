@@ -1,0 +1,75 @@
+
+globePack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+globe
+  rotate: false
+  xy: 1, 46
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 203, 146
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+mech
+  rotate: false
+  xy: 305, 146
+  size: 63, 100
+  orig: 63, 100
+  offset: 0, 0
+  index: -1
+RD3
+  rotate: false
+  xy: 203, 69
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+lL1
+  rotate: false
+  xy: 1, 1
+  size: 75, 43
+  orig: 75, 43
+  offset: 0, 0
+  index: -1
+lr1
+  rotate: false
+  xy: 370, 211
+  size: 61, 35
+  orig: 61, 35
+  offset: 0, 0
+  index: -1
+rA12
+  rotate: false
+  xy: 280, 119
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+lA12
+  rotate: false
+  xy: 78, 19
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+lA1
+  rotate: false
+  xy: 370, 181
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+rA1
+  rotate: false
+  xy: 433, 218
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
